@@ -10,7 +10,7 @@ This is a simple Rock Paper Scissors game implemented in Python using the Tkinte
 3. Run the script using the following command:
 
    ```
-   python filename.py
+   rock paper scissor.py
    ```
 
 ## How to Play
